@@ -21,6 +21,10 @@
     max-width: 100%;
 }
 
-.new-expense__actions{
-    text-align: right;
+.new-expense__action button{
+    border: 2px solid #c65151;;
+}
+
+.new-expense__action button:hover{
+    border: 2px solid black;
 }
